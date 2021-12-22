@@ -1,0 +1,70 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    margin-top: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+}
+
+ul {
+    margin: 0;
+}
+
+.bg-steel {
+    background-color: #5f788a;
+}
+
+.site-header .navbar-nav .nav-link {
+    color: #cbd5db;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+}
+
+.content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    margin-bottom: 15px;
+}
+
+.account-heading {
+    font-size: 2.5rem;
+}
+
+.navbar-title {
+    color: #ffffff !important;
+}
+
+.my-bg {
+    margin: 10px 0 0 0;
+    max-width: none;
+}
+
+textarea {
+    height: 100px!important;
+    resize: none;
+}
+
+#div_id_day_of_month div{
+    max-height: 200px!important;
+    overflow:scroll;
+}
+
+#div_id_month_of_year div{
+    max-height: 200px!important;
+    overflow:scroll;
+}
+
+/*#div_id_day_of_month div{*/
+/*    max-height: 200px!important;*/
+/*    overflow:scroll;*/
+/*}*/
